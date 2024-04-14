@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css'
+import Calculator from './components/Calculator'
+import './components/Calculator/styles.css'
+
 const  App = () => {
   
   return (
-    <div>
-      Your calculator here
-    </div>
-  
+    <Calculator />
   );
 }
 
