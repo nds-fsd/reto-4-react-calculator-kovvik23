@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/book-landing-page/"
+  base: "https://nds-fsd.github.io/reto-4-react-calculator-kovvik23/"
 })
