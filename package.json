@@ -2,7 +2,7 @@
   "name": "react-calculator-solved",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https:// https://nds-fsd.github.io//reto-4-react-calculator-kovvik23/",
+  "homepage": "https:// https://nds-fsd.github.io/reto-4-react-calculator-kovvik23/",
   "type": "module",
   "scripts": {
     "dev": "vite",
