@@ -1,8 +1,7 @@
 {
-  "name": "react-calculator-solved",
+  "name": "react-calculator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nds-fsd.github.io/reto-4-react-calculator-kovvik23/",
   "type": "module",
   "scripts": {
     "dev": "vite",
