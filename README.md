@@ -55,8 +55,6 @@ The project is organized as follows:
 ├── public
 │   └── calculator-svgrepo-com.svg       # SVG icon for the calculator
 ├── src
-│   ├── assets
-│   │   └── react.svg                    # React logo SVG image
 │   ├── components
 │   │   ├── Calculator
 │   │   │   └── index.jsx                # Main Calculator component
